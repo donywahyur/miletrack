@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142863398603",
+    "project_id": "miletrack-d51bb",
+    "storage_bucket": "miletrack-d51bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142863398603:android:b01a3b16d87e9631c84d4e",
+        "android_client_info": {
+          "package_name": "com.example.miletrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142863398603-7o082i506mgoodkvk9k0j5hq5rb7h26t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ZC7xfaOHu-NAfXzZYUShM4pTqwVtJuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142863398603-7o082i506mgoodkvk9k0j5hq5rb7h26t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
